@@ -1,0 +1,1 @@
+# virustotal-wazuh-integration
